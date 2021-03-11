@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/firebaseStudy/static/css/main.3767f1e0.chunk.css",
+    "main.js": "/firebaseStudy/static/js/main.7a829fac.chunk.js",
+    "main.js.map": "/firebaseStudy/static/js/main.7a829fac.chunk.js.map",
+    "runtime-main.js": "/firebaseStudy/static/js/runtime-main.1d49057e.js",
+    "runtime-main.js.map": "/firebaseStudy/static/js/runtime-main.1d49057e.js.map",
+    "static/js/2.2e880f58.chunk.js": "/firebaseStudy/static/js/2.2e880f58.chunk.js",
+    "static/js/2.2e880f58.chunk.js.map": "/firebaseStudy/static/js/2.2e880f58.chunk.js.map",
+    "index.html": "/firebaseStudy/index.html",
+    "static/css/main.3767f1e0.chunk.css.map": "/firebaseStudy/static/css/main.3767f1e0.chunk.css.map",
+    "static/js/2.2e880f58.chunk.js.LICENSE.txt": "/firebaseStudy/static/js/2.2e880f58.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1d49057e.js",
+    "static/js/2.2e880f58.chunk.js",
+    "static/css/main.3767f1e0.chunk.css",
+    "static/js/main.7a829fac.chunk.js"
+  ]
+}
